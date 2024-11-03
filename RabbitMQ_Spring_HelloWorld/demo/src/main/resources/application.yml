@@ -1,0 +1,8 @@
+spring:
+ application:
+  name: demo
+ profiles:
+  active: usage_message
+logging:
+ level:
+  org: ERROR

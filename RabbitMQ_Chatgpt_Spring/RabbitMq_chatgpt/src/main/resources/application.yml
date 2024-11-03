@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: RabbitMq_chatgpt
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: admin
+    password: 123
+  server:
+    port: 8080
